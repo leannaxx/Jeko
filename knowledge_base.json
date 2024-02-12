@@ -11,6 +11,26 @@
         {
             "question": "whats is you purpose?",
             "answer": "i want to help you do your transition to a greener future."
-        }
+        },
+        {
+            "question": "What are some energy-efficient technologies you would recommand for a residential business?",
+            "answer": "For your kind of business some of the energy efficient technologies you could try to invest on would be: \n-High-efficiency home heating, ventilation, and air conditioning (HVAC) systems \n-Insulation /n-Efficient appliances (e.g., clothes washers)."
+        },
+        {
+            "question": "What are some energy-efficient technologies you would recommand for a commercial business?",
+            "answer": "For a commercial business the energy efficient technologies that should be a priority would be: \n-Efficient consumer electronics \n-Commercial refrigeration \n-LED lighting with sensors."
+        },
+        {
+            "question": "What are some energy-efficient technologies you would recommand for an industrial business?",
+            "answer": "For an industrial business I would recommand those energy efficient technologies: \n-Fuel-efficient motors \n-Enhancements to the building envelope (e.g., roof, siding, windows)."
+        },
+        {
+            "question": "What are some energy-efficient technologies you would recommand for an Agriculture business?",
+            "answer": "An Agriculture business would have to invest on efficient pumps and motors as a way to have more energy efficient technologies."
+        },
+        {
+            "question": "What are some energy-efficient technologies you would recommand for a Transportation business?",
+            "answer": "For transportation business, the first energy efficient technologies that would have to be invested on are: \n-Fuel economy standards \n-Fuel-saving tire design."
+        },
     ]
 }
