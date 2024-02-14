@@ -1,36 +1,41 @@
 { 
     "questions":[
         {
-            "question": "What is your name?",
-            "answer": "My name is Jeko :3"
+            "question": "Quel est ton nom?",
+            "answer": "Mon nom est Jeko :3"
         },
         {
-            "question": "How can I contact customer support?",
-            "answer": "You can contact customer support by calling our toll-free number or sending an email to the support."
+            "question": "Comment puis-je contacter le service client?",
+            "answer": "Vous pouvez contacter le service client en appelant notre numéro sans frais ou en envoyant un e-mail au support."
         },
         {
-            "question": "whats is you purpose?",
-            "answer": "i want to help you do your transition to a greener future."
+            "question": "Quel est ton objectif?",
+            "answer": "Je veux vous aider à effectuer votre transition vers un avenir plus écologique."
         },
         {
-            "question": "What are some energy-efficient technologies you would recommand for a residential business?",
-            "answer": "For your kind of business some of the energy efficient technologies you could try to invest on would be: \n-High-efficiency home heating, ventilation, and air conditioning (HVAC) systems \n-Insulation /n-Efficient appliances (e.g., clothes washers)."
+            "question": "Quelles sont certaines technologies écoénergétiques que vous recommanderiez pour une entreprise résidentielle?",
+            "answer": "Pour votre type d'entreprise, certaines des technologies écoénergétiques que vous pourriez essayer d'investir seraient : \n-Systèmes de chauffage, de ventilation et de climatisation (CVC) à haute efficacité \n-Isolation \n-Appareils efficaces (par exemple, lave-linge)."
         },
         {
-            "question": "What are some energy-efficient technologies you would recommand for a commercial business?",
-            "answer": "For a commercial business the energy efficient technologies that should be a priority would be: \n-Efficient consumer electronics \n-Commercial refrigeration \n-LED lighting with sensors."
+            "question": "Quelles sont certaines technologies écoénergétiques que vous recommanderiez pour une entreprise commerciale?",
+            "answer": "Pour une entreprise commerciale, les technologies écoénergétiques qui devraient être une priorité seraient : \n-Électronique grand public efficace \n-Réfrigération commerciale \n-Éclairage LED avec capteurs."
         },
         {
-            "question": "What are some energy-efficient technologies you would recommand for an industrial business?",
-            "answer": "For an industrial business I would recommand those energy efficient technologies: \n-Fuel-efficient motors \n-Enhancements to the building envelope (e.g., roof, siding, windows)."
+            "question": "Quelles sont certaines technologies écoénergétiques que vous recommanderiez pour une entreprise industrielle?",
+            "answer": "Pour une entreprise industrielle, je recommanderais ces technologies écoénergétiques : \n-Moteurs économes en carburant \n-Améliorations de l'enveloppe du bâtiment (par exemple, toit, revêtement, fenêtres)."
         },
         {
-            "question": "What are some energy-efficient technologies you would recommand for an Agriculture business?",
-            "answer": "An Agriculture business would have to invest on efficient pumps and motors as a way to have more energy efficient technologies."
+            "question": "Quelles sont certaines technologies écoénergétiques que vous recommanderiez pour une entreprise agricole?",
+            "answer": "Une entreprise agricole devrait investir dans des pompes et des moteurs efficaces pour avoir des technologies plus écoénergétiques."
         },
         {
-            "question": "What are some energy-efficient technologies you would recommand for a Transportation business?",
-            "answer": "For transportation business, the first energy efficient technologies that would have to be invested on are: \n-Fuel economy standards \n-Fuel-saving tire design."
+            "question": "Quelles sont certaines technologies écoénergétiques que vous recommanderiez pour une entreprise de transport?",
+            "answer": "Pour une entreprise de transport, les premières technologies écoénergétiques sur lesquelles il faudrait investir sont : \n-Normes de consommation de carburant \n-Conception de pneus économes en carburant."
+        },
+        {
+            "question": "Comment quitter l'application?",
+            "answer": "Pour quitter, il suffit d'écrire 'quitter'."
         }
+        
     ]
 }

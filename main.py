@@ -25,16 +25,19 @@ def main():
     knowledge_base: dict = load_db('knowledge_base.json')
 
     while True:
-        user_input: str = input('You : ')
-        if user_input.lower() == 'quit':
+        user_input: str = input('Vous : ')
+        if user_input.lower() == 'quitter':
+            print('Jeko : Au revoir !')
             break
 
         best_match: str | None = find_best_match(user_input, [q["question"]for q in knowledge_base["questions"]])
 
         if best_match:
             answer: str = get_answer(best_match, knowledge_base)
-            print(f'Bot: {answer}')
+            print(f'Jeko: {answer}')
         else:
-            print("bot : i don't know") 
-print("hello world")
-main()
+            print("Jeko : Désolée, je ne comprends pas votre question. Pouvez-vous reformuler ?") 
+
+if __name__ == "__main__":
+    print("Bonjour monde ! Je suis Jeko, votre assistant virtuel. Comment puis-je vous aider ? (Tapez 'quitter' pour quitter)")
+    main()
